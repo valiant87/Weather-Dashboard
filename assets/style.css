@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body,
+html {
+  height: 100%;
+  background-color: white;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+p {
+  font-size: 14px;
+}
+
+h2 {
+  text-align: center;
+  padding: 5px;
+}
+header {
+  background-color: lightsteelblue;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: block;
+  text-align: center;
+  background-color: lightsteelblue;
+  padding-top: 1%;
+}
+#border {
+  padding-bottom: 1%;
+  width: 100%;
+}
+.card-deck {
+  align-self: auto;
+  padding-left: 3%;
+}
+.green {
+  background-color: green;
+}
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.red {
+  background-color: red;
+}
+.violet {
+  background-color: rgb(95, 51, 95);
+}
