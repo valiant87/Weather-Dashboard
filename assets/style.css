@@ -23,7 +23,8 @@ h2 {
   padding: 5px;
 }
 header {
-  background-color: lightsteelblue;
+  background-color: rgb(53, 126, 221);
+  color: rgb(254, 254, 254);
 }
 footer {
   position: fixed;
@@ -32,12 +33,17 @@ footer {
   width: 100%;
   display: block;
   text-align: center;
-  background-color: lightsteelblue;
+  background-color: rgb(53, 126, 221);
   padding-top: 1%;
+  color: rgb(254, 254, 254);
 }
 #border {
   padding-bottom: 1%;
   width: 100%;
+}
+#searchBtn {
+  color: rgb(53, 126, 221);
+  border-color: rgb(53, 126, 221);
 }
 .card-deck {
   align-self: auto;
