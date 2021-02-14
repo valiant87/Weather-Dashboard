@@ -6,7 +6,7 @@ This is a wether API user interface that allows you to search and retrieve curre
 
 ---
 
-![demo](weather.mp4)
+![demo](weather.gif)
 
 - [User Story](#User-Story)
 - [Technologies](#Technologies)
